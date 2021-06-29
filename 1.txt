@@ -3,3 +3,5 @@ linux is better than windows
 unix is almost same as linux, linux and linux is more Secure
 Linux is usefull in Devops
 Linux is Open Source.
+Today is GIT training
+Learning about Branches.
